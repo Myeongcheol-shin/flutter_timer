@@ -16,7 +16,7 @@ Timer app made in flutter language.
 ## Working Check device
 * Iphon 14 pro max
 * Mac air2
-
+* Pixel 4
 ## ScreenShot
 <p align="center">
   <img src="https://github.com/Myeongcheol-shin/flutter_timer/assets/82868004/51d6b248-d6d4-4813-8806-986672851363" align="center" width="33%">
