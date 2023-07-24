@@ -10,6 +10,9 @@ Timer app made in flutter language.
 ## How to Use?
 * Click on the widget to set the time and number of iterations. Then a dialog window will appear, please enter the desired value.
 
+## additional development plans
+* alarm
+
 ## ScreenShot
 <p align="center">
   <img src="https://github.com/Myeongcheol-shin/flutter_timer/assets/82868004/51d6b248-d6d4-4813-8806-986672851363" align="center" width="33%">
