@@ -31,7 +31,7 @@ class _MyAppState extends State<MyApp> {
         builder: (context, snapshot) {
           if (snapshot.hasData) {
             return HomeScreen(
-              defaultTime: snapshot.data!.getInt("defaultTime") ?? 60000000,
+              defaultTime: snapshot.data!.getInt("defaultTime") ?? 6000000,
               prefs: snapshot.data!,
             );
           } else {
