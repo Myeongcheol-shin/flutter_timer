@@ -1,4 +1,5 @@
 import 'dart:async';
+import 'dart:io';
 import 'package:flutter/material.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
@@ -41,6 +42,7 @@ class _HomeScreenState extends State<HomeScreen> {
 
   void onPressResetButton() {
     if (isRunning) timer.cancel();
+
     setState(() {
       cycle = 0;
       progress = 0.0;
@@ -77,7 +79,11 @@ class _HomeScreenState extends State<HomeScreen> {
       }
     } else {
       setState(() {
-        totalSeconds -= 10;
+        if (Platform.isAndroid) {
+          totalSeconds -= 100;
+        } else {
+          totalSeconds -= 10;
+        }
         progress = formatProgress(totalSeconds);
       });
     }
