@@ -12,7 +12,7 @@ Timer app made in flutter language.
 
 ## ScreenShot
 <p align="center">
-  <img src="https://github.com/Myeongcheol-shin/flutter_timer/assets/82868004/26e56824-e8ff-44eb-a05d-f4ffec57bfcd" align="center" width="33%">
-  <img src="https://github.com/Myeongcheol-shin/flutter_timer/assets/82868004/94916030-237b-4fa3-949b-027e8ce3e0fa" align="center" width="33%">
-  <img src="https://github.com/Myeongcheol-shin/flutter_timer/assets/82868004/b7a4cd9f-c72a-4e0b-a24a-d7ca7f49811b" align="center" width="33%">
+  <img src="https://github.com/Myeongcheol-shin/flutter_timer/assets/82868004/51d6b248-d6d4-4813-8806-986672851363" align="center" width="33%">
+  <img src="https://github.com/Myeongcheol-shin/flutter_timer/assets/82868004/44ff3ce3-871d-4cee-a89e-5dbb87f39f47" align="center" width="33%">
+  <img src="https://github.com/Myeongcheol-shin/flutter_timer/assets/82868004/2e68b758-a6a0-4a89-85e0-50c9b2294aba" align="center" width="33%">
 </p>
