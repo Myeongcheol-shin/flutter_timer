@@ -1,16 +1,25 @@
 # flutter_timer
 
-A new Flutter project.
+Timer app made in flutter language.
 
-## Getting Started
+## Features
+* You can set the working time, break time, and number of iterations.
+* Time initialization and full initialization.
+* The shape and color of the circle vary depending on the progress.
+  
+## How to Use?
+* Click on the widget to set the time and number of iterations. Then a dialog window will appear, please enter the desired value.
 
-This project is a starting point for a Flutter application.
+## additional development plans
+* alarm
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Working Check device
+* Iphon 14 pro max
+* Mac air2
+* Pixel 4
+## ScreenShot
+<p align="center">
+  <img src="https://github.com/Myeongcheol-shin/flutter_timer/assets/82868004/51d6b248-d6d4-4813-8806-986672851363" align="center" width="33%">
+  <img src="https://github.com/Myeongcheol-shin/flutter_timer/assets/82868004/44ff3ce3-871d-4cee-a89e-5dbb87f39f47" align="center" width="33%">
+  <img src="https://github.com/Myeongcheol-shin/flutter_timer/assets/82868004/2e68b758-a6a0-4a89-85e0-50c9b2294aba" align="center" width="33%">
+</p>
